@@ -30,3 +30,4 @@ Execute o seguinte comando no terminal:
 
 ```bash
 brew install git
+# dio-resumos-git-e-github
